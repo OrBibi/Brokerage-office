@@ -2,7 +2,7 @@ package Theoffice.Menegment;
 
 import Theoffice.Exception.*;
 
-//this class exist to add new apartments to the system
+//this class exist to add new apartments to the system.
 
 public class AddApartment {
     private static AddApartment instance;
